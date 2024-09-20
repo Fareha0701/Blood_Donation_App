@@ -1,4 +1,4 @@
-# Blood Donation App 🩸
+# Blood Donation App
 
 ## Features 📲
 
