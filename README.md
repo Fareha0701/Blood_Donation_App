@@ -1,6 +1,6 @@
 # Blood Donation App
 
-## Features 📲
+## Features
 
 - Get Blood Request Alerts Around 200 Km Radius Nearby
 - Request When Blood is Needed / Donate to Others
