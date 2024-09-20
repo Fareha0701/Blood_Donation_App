@@ -1,5 +1,7 @@
 # Blood Donation App
 
+The Blood Donation App is a Flutter-based mobile application designed to connect blood donors with recipients in need of blood. This app aims to facilitate the process of finding blood donors quickly and easily, ensuring that the right match is found in emergency situations. 
+
 ## Features
 
 - Get Blood Request Alerts Around 200 Km Radius Nearby
@@ -9,5 +11,9 @@
 - Push Notifications using Firebase
 
 
-## Screenshots 📷
+## Technologies Used
+Flutter: Cross-platform mobile app development.
+Dart: Primary programming language.
+Firebase: Backend for authentication, database, and cloud functions.
+Geolocation: For location-based donor search.
 
